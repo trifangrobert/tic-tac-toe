@@ -1,0 +1,22 @@
+.container {
+    min-height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 20px;
+}
+
+.button {
+    background-color: transparent;
+    color: white;
+    border-radius: 10px;
+    height: 75px;
+    width: 300px;
+    font-size: 30px;
+    box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.5);;
+}
+
+.button:hover {
+    background-color: #FA6600;
+}

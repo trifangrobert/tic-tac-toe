@@ -1,0 +1,11 @@
+.div {
+  color: #fa6600;
+  border: 6px solid white;
+  border-radius: 2px;
+  font-size: 4em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Helvetica;
+  font-weight: bold;
+}
